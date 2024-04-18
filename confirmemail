@@ -1,0 +1,23 @@
+<table>
+    <tr>
+      <td align="center">
+        <div>
+          <img src="https://daianaqas.seidoranalytics.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-daiana.914325b0.png&w=3840&q=75" width="250" alt="Feelings Logo" style="max-width: 100%;">
+        </div>
+  
+        <h1>¡Bienvenida a Daiana!</h1>
+  
+        <p>Gracias por registrarte. Por favor verifica tu email haciendo clic en el siguiente enlace:</p>
+  
+        <p><a href="{{ .ConfirmationURL }}" style="text-decoration: none; background-color: #3498db; color: #ffffff; padding: 10px 20px; display: inline-block; border-radius: 5px;">Confirmar mi cuenta</a></p>
+  
+        <p>Si tienes algún inconveniente con tu cuenta, no dudes en ponerte en contacto con nosotros respondiendo a este correo.</p>
+  
+        <p>¡Muchas gracias!<br><strong>Daiana</strong></p>
+  
+        <hr style="border: 2px solid #EAEEF3; border-bottom: 0; margin: 20px 0;">
+  
+        <p style="text-align: center; color: #A9B3BC;">Si recibiste este email por error, contáctenos respondiendo a este correo.</p>
+      </td>
+    </tr>
+  </table>
